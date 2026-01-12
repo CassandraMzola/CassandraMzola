@@ -4,10 +4,8 @@
 ---
 
 ## 🧠 What I Do  
-I combine SQL, Python, R, Power BI to to analyze datasets, create dashboards, and tell stories that help organizations make better decisions, whether in sustainability, operations, marketing or finance.  
+I combine **SQL, Python, R, Power BI and Excel** to to analyze datasets, create dashboards, and tell stories that help organizations make better decisions, whether in sustainability, operations, marketing or finance.  
  
-I use **SQL, Python, R, Power BI, Excel, and data science techniques** to analyze climate, water, and sustainability data — turning complex datasets into **clear, decision-ready insights**.
-
 ---
 
 ## 🔧 Skills Snapshot  

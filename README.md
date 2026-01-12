@@ -4,8 +4,8 @@
 ---
 
 ## 🧠 What I Do  
-I combine environmental science, data analytics, and science communication to create actionable insights that help cities, communities, and organizations make smarter sustainability decisions.  
-I develop interactive platforms, dashboards, and educational content to **bridge the gap between science and society**.  
+I combine SQL, Python, R, Power BI to to analyze datasets, create dashboards, and tell stories that help organizations make better decisions, whether in sustainability, operations, marketing or finance.  
+ 
 I use **SQL, Python, R, Power BI, Excel, and data science techniques** to analyze climate, water, and sustainability data — turning complex datasets into **clear, decision-ready insights**.
 
 ---
@@ -43,8 +43,8 @@ Environmental & Water Sciences | Data Analytics & Visualization | Science Commun
 ---
 
 ## 🎯 Career Goals  
-I’m seeking opportunities in **data analytics, ESG reporting, environmental data science, or sustainability consulting**.  
-I aim to leverage **African climate and environmental data** to drive meaningful impact and inform decision-making.
+I’m open to opportunities in **data analytics, business intelligence, or any field where data drives smarter decisions**.  
+My goal is to use data to solve **real-world problems across industries, bridging analytics with meaningful impact.** I enjoy designing interactive dashboards, building data pipelines, and turning insights into action.
 
 ---
 
